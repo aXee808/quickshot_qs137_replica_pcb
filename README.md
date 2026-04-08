@@ -6,9 +6,9 @@ Quickshot QS137 db9 joystick replica PCB prototype (kicad gerber file)
 
 \# Images
 
-!\[original schema](https://github.com/aXee808/asssets/quickshot-qs137-schematic.png)
+!\[original schema](https://github.com/aXee808/quickshot_qs137_replica_pcb/blob/main/assets/quickshot-qs137-schematic.png)
 
-!\[pcb prototype v1](https://github.com/aXee808/asssets/protov1\_pcb.png)
+!\[pcb prototype v1](https://github.com/aXee808/quickshot_qs137_replica_pcb/blob/main/assets/protov1_pcb.png)
 
-!\[pcb 3D visu](https://github.com/aXee808/asssets/protov1\_3dvis.png)
+!\[pcb 3D visu](https://github.com/aXee808/quickshot_qs137_replica_pcb/blob/main/assets/protov1_3dvis.png)
 
